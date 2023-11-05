@@ -1,1 +1,2 @@
-#
+# Reinforcement Learning
+One possible definition of reinforcement learning (RL) is a computational approach to learning how to maximize the total sum of rewards when interacting with an environment. While a definition is useful, this tutorial aims to illustrate what reinforcement learning is through images, code, and video examples and along the way introduce reinforcement learning terms like agents and environments.
