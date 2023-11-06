@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# Reinforcement Learning  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository is created solely for learning purposes and is intended for students taking the "Introduction to AI" course in the 2023 academic year. Here, you will find resources, code, and materials related to Reinforcement learning lab.
 
@@ -19,3 +19,12 @@ In reinforcement learning, one or more agents interact within an environment whi
     - Using PPO
     - Using DQN
 - Frozen lake environment
+  
+## Acknowledgement
+Materials referenced:
+- [Medium](https://medium.com/username/the-future-of-a](https://towardsdatascience.com/q-learning-for-beginners-2837b777741)https://towardsdatascience.com/q-learning-for-beginners-2837b777741) post by 
+Maxime Labonne ( # Qlearning for beginners)
+- [Github](https://github.com/nicknochnack/ReinforcementLearningCourse) by Nicholas Renotte.
+
+
+
